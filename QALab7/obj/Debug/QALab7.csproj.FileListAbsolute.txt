@@ -1,0 +1,2 @@
+c:\users\tuf26633\source\repos\QALab7\QALab7\obj\Debug\QALab7.csprojAssemblyReference.cache
+c:\users\tuf26633\source\repos\QALab7\QALab7\obj\Debug\QALab7.csproj.CoreCompileInputs.cache
